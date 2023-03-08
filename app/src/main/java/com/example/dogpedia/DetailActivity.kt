@@ -1,6 +1,5 @@
 package com.example.dogpedia
 
-import android.annotation.SuppressLint
 import android.content.ContentValues.TAG
 import android.content.Intent
 import android.os.Build
@@ -12,7 +11,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.widget.Toolbar
 import androidx.core.widget.NestedScrollView
-import androidx.recyclerview.widget.RecyclerView
 
 @Suppress("DEPRECATION")
 class DetailActivity : AppCompatActivity() {
@@ -54,15 +52,15 @@ class DetailActivity : AppCompatActivity() {
         }
 
         val tvDetailName : TextView = findViewById(R.id.tv_detail_name)
-        val tvOtherName : TextView = findViewById(R.id.tv_other_name)
-        val tvOrigin : TextView = findViewById(R.id.tv_origin)
+//        val tvOtherName : TextView = findViewById(R.id.tv_other_name)
+//        val tvOrigin : TextView = findViewById(R.id.tv_origin)
         val tvDetailDescription : TextView = findViewById(R.id.tv_detail_description)
         val tvDetailPhoto : ImageView = findViewById(R.id.tv_detail_photo)
 
         tvDetailName.text = dataDogs?.name
         tvDetailDescription.text = dataDogs?.description
-        tvOtherName.text = dataDogs?.otherName
-        tvOrigin.text = dataDogs?.origin
+//        tvOtherName.text = dataDogs?.otherName
+//        tvOrigin.text = dataDogs?.origin
         if (dataDogs != null) {
             tvDetailPhoto.setImageResource(dataDogs.photo)
         }

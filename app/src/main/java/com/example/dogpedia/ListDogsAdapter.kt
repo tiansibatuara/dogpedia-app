@@ -17,10 +17,11 @@ class ListDogsAdapter(private val listDogs: ArrayList<Dogs>) : RecyclerView.Adap
     }
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (name, description, photo) = listDogs[position]
+        val (name, _,otherName,origin, photo) = listDogs[position]
         holder.imgPhoto.setImageResource(photo)
         holder.tvName.text = name
-        holder.tvDescription.text = description
+        holder.tvOtherName.text = "Nickname : $otherName"
+        holder.tvOrigin.text = "Origin : $origin"
 
         holder.itemView.setOnClickListener {
             val intentDetail = Intent(holder.itemView.context, DetailActivity::class.java)
@@ -34,7 +35,8 @@ class ListDogsAdapter(private val listDogs: ArrayList<Dogs>) : RecyclerView.Adap
     class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val imgPhoto: ImageView = itemView.findViewById(R.id.img_item_photo)
         val tvName: TextView = itemView.findViewById(R.id.tv_item_name)
-        val tvDescription: TextView = itemView.findViewById(R.id.tv_item_description)
+        val tvOtherName: TextView = itemView.findViewById(R.id.tv_other_name)
+        val tvOrigin: TextView = itemView.findViewById(R.id.tv_item_origin)
     }
 
 

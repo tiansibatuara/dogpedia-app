@@ -6,6 +6,8 @@
     <string name="aboutName">Christian Michael Mozart Sibatuara</string>
     <string name="aboutEmail">18220068@std.stei.itb.ac.id</string>
     <string name="details_title">Description</string>
+    <string name="origin">Origin</string>
+    <string name="nickname">Nickname</string>
     <string-array name="data_name">
         <item>Labrador Retriever</item>
         <item>French Bulldog</item>
@@ -33,8 +35,8 @@
     <string-array name="data_otherName">
         <item>Labrador, Lab</item>
         <item>Bouledogue Français</item>
-        <item>Alsatian, Alsatian Wolf Dog, Berger Allemand, Deutscher Schäferhund, Altdeutsche Schäferhunde</item>
-        <item>Flat-coated Retriever, Golden, Yellow Retriever</item>
+        <item>Alsatian, Berger Allemand</item>
+        <item>Flat-coated Retriever, Golden</item>
         <item>English Bulldog, British Bulldog</item>
         <item>English Beagle</item>
         <item>Pudel, Caniche</item>
