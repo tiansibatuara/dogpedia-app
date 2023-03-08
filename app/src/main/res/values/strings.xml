@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">DogPedia</string>
+    <string name="dogs_name">Nama Jenis Anjing</string>
+    <string name="description">Deskripsi</string>
+    <string name="aboutTitle">About</string>
+    <string name="aboutName">Christian Michael Mozart Sibatuara</string>
+    <string name="aboutEmail">18220068@std.stei.itb.ac.id</string>
+    <string name="details_title">Description</string>
+    <string-array name="data_name">
+        <item>Labrador Retriever</item>
+        <item>French Bulldog</item>
+        <item>German Shepherd</item>
+        <item>Golden Retriever</item>
+        <item>Bulldog</item>
+        <item>Beagle</item>
+        <item>Poodle</item>
+        <item>Rottweiler</item>
+        <item>Yorkshire Terrier</item>
+        <item>Dachsund</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>The Labrador Retriever or simply Labrador is a British breed of retriever gun dog. It was developed in the United Kingdom from fishing dogs imported from the colony of Newfoundland (now a province of Canada), and was named after the Labrador region of that colony. It is among the most commonly kept dogs in several countries, particularly in the Western world. The Labrador is friendly, energetic, and playful. It was bred as a sporting and hunting dog but is widely kept as a companion dog. It may also be trained as a guide or assistance dog, or for rescue or therapy work.</item>
+        <item>The French Bulldog is a French breed of companion dog or toy dog. It appeared in Paris in the mid-nineteenth century, apparently the result of cross-breeding of Toy Bulldogs imported from England and local Parisian ratters. It is commonly kept as a pet, and is among the most frequently registered dogs in a number of countries including Australia, the United Kingdom, and the United States.</item>
+        <item>The German Shepherd or Alsatian is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep. It has since been used in many other types of work, including disability assistance, search-and-rescue, police work, and warfare. It is commonly kept as a companion dog, and according to the Fédération Cynologique Internationale had the second-highest number of annual registrations in 2013.</item>
+        <item>The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries. It is a frequent competitor in dog shows and obedience trials; it is also used as a gundog, and may be trained for use as a guide dog. The breed was created by Sir Dudley Marjoribanks at his Scottish estate Guisachan in the late nineteenth century. He cross-bred Flat-coated Retrievers with Tweed Water Spaniels, with some further infusions of Red Setter, Labrador Retriever and Bloodhound. The breed was recognised by the Kennel Club in 1913, and during the interwar period spread to many parts of the world.</item>
+        <item>The Bulldog is a British breed of dog of mastiff type. It may also be known as the English Bulldog or British Bulldog. It is a medium sized, muscular dog of around 40–55 lb (18–25 kg). They have large heads with a thick folds of skin around the face and shoulders, and a relatively flat face with a protruding lower jaw. The breed has significant health issues as a consequence of breeding for its distinctive appearance, including brachycephalia, hip dysplasia, heat sensitivity, and skin infections. Due to concerns about their quality of life, breeding Bulldogs is illegal in Norway and the Netherlands. The modern Bulldog was bred as a companion dog from the Old English Bulldog, a now-extinct breed used for bull-baiting, when the sport was outlawed in England under the Cruelty to Animals Act. The Bulldog Club (In England) was formed in 1878, and the Bulldog Club of America was formed in 1890. While often used as a symbol of ferocity and courage, modern Bulldogs are generally friendly, amiable dogs. Bulldogs are now commonly kept as pets; in 2013 it was in twelfth place on a list of the breeds most frequently registered worldwide.</item>
+        <item>The Beagle is a breed of small scent hound, similar in appearance to the much larger foxhound. The beagle was developed primarily for hunting hare, known as beagling. Possessing a great sense of smell and superior tracking instincts, the beagle is the primary breed used as a detection dog for prohibited agricultural imports and foodstuffs in quarantine around the world. The beagle is intelligent and is a popular pet due to its size, good temper, and a lack of inherited health problems. The modern breed was developed in Great Britain around the 1830s from several breeds, including the Talbot Hound, the North Country Beagle, the Southern Hound, and possibly the Harrier. Beagles have been depicted in popular culture since Elizabethan times in literature and paintings and more recently in film, television, and comic books.</item>
+        <item>The Poodle is a breed of water dog. The breed is divided into four varieties based on size, the Standard Poodle, Medium Poodle, Miniature Poodle and Toy Poodle, although the Medium Poodle is not universally recognised. They have a distinctive thick, curly coat that comes in many colors and patterns, with only solid colors recognized by breed registries. Poodles are active and intelligent, and are particularly able to learn from humans. Poodles tend to live 10–18 years, with smaller varieties tending to live longer than larger ones. The Poodle likely originated in Germany, although the Fédération Cynologique Internationale (FCI) and a minority of cynologists believe it originated in France. Similar dogs date back to at least the 17th century. Larger Poodles were originally used by wildfowl hunters to retrieve game from water, while smaller varieties were once commonly used as circus performers. Poodles were recognized by both the Kennel Club of the United Kingdom and the American Kennel Club (AKC) soon after the clubs\' founding. Since the mid-20th century, Poodles have enjoyed enormous popularity as pets and show dogs – Poodles were the AKC\'s most registered breed from 1960 to 1982, and are now the FCI\'s third most registered breed. Poodles are also common at dog shows, where they often sport the popularly recognized Continental clip, with face and rear clipped close, and tufts of hair on the hocks and tail tip.</item>
+        <item>The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers\' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market. This continued until the mid-19th century when railways replaced droving. Although still used to herd stock in many parts of the world, Rottweilers are now also used as search and rescue dogs, guard dogs, and police dogs.</item>
+        <item>The Yorkshire Terrier is a British breed of toy dog of terrier type. It is among the smallest of the terriers and indeed of all dog breeds, with a weight of no more than 3.2 kg. It originated in the nineteenth century in the English county of Yorkshire, for which it is named. Their coats are typically tan on the head with a dark steel-grey body, but they can come in a variety of colors. It is a playful and energetic dog, usually kept as a companion dog. It has contributed to the development of other breeds including the Silky Terrier, and also to cross-breeds such as the Yorkipoo.</item>
+        <item>The Dachshund, also known as the wiener dog, badger dog, and sausage dog, is a short-legged, long-bodied, hound-type dog breed. The dog may be smooth-haired, wire-haired, or long-haired, and comes in a variety of colors. The standard-sized dachshund was developed to scent, chase, and flush out badgers and other burrow-dwelling animals. The miniature dachshund was bred to hunt small animals such as rabbits. According to the American Kennel Club, the dachshund was ranked 12th in popularity among dog breeds in the United States in 2018.</item>
+    </string-array>
+    <string-array name="data_otherName">
+        <item>Labrador, Lab</item>
+        <item>Bouledogue Français</item>
+        <item>Alsatian, Alsatian Wolf Dog, Berger Allemand, Deutscher Schäferhund, Altdeutsche Schäferhunde</item>
+        <item>Flat-coated Retriever, Golden, Yellow Retriever</item>
+        <item>English Bulldog, British Bulldog</item>
+        <item>English Beagle</item>
+        <item>Pudel, Caniche</item>
+        <item>Rott, Rottie</item>
+        <item>Yorkshire, The Tomboy Boy</item>
+        <item>Sausage Dog, Weiner Dog</item>
+    </string-array>
+    <string-array name="data_origin">
+        <item>United Kingdom</item>
+        <item>England</item>
+        <item>Germany</item>
+        <item>Scotland</item>
+        <item>England</item>
+        <item>England</item>
+        <item>Germany, France</item>
+        <item>Germany</item>
+        <item>England</item>
+        <item>Germany</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/labrador_retriever</item>
+        <item>@drawable/french_bulldog</item>
+        <item>@drawable/german_shepherd</item>
+        <item>@drawable/golden_retriever</item>
+        <item>@drawable/bulldog</item>
+        <item>@drawable/beagle</item>
+        <item>@drawable/poodle</item>
+        <item>@drawable/rottweiler</item>
+        <item>@drawable/yorkshire_terrier</item>
+        <item>@drawable/dachsund</item>
+    </integer-array>
+</resources>
